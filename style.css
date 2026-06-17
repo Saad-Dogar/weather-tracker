@@ -248,7 +248,7 @@ body.dark-theme #forecast button {
     background-color: #1e293b;
 }
 
-body.dark-theme #forecast i {
+body.dark-theme #forecast i, body.dark-theme #dashboard i {
     background-color: #1e293b;
 }
 
