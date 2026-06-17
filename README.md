@@ -27,7 +27,7 @@ A clean, responsive weather dashboard built with vanilla JavaScript, HTML, and C
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/weather-tracker.git
+   git clone https://github.com/Saad-Dogar/weather-tracker.git
    cd weather-tracker
    ```
 2. Open `index.html` in your browser — no build step or server required.
@@ -57,7 +57,3 @@ Built as a one-week challenge to learn JavaScript from scratch after working pri
 - [ ] Move API key to environment-based config
 - [ ] Migrate to a backend (Node/Express) with database caching
 - [ ] Rebuild frontend in React as part of learning the MERN stack
-
-## 📄 License
-
-This project is open source and available for learning purposes.
